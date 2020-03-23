@@ -25,7 +25,7 @@ avatar: "/img/mrgoldy120.png"
 # title-img: /path/to/image
 
 # --- Background colour/image options --- #
-navbar-col: "#F5F5F5"
+navbar-col: "linear-gradient(45deg,#6200ea, #1976d2)"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
